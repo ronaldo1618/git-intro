@@ -1,4 +1,5 @@
 nav li {
+    display: flex;
     color: red;
     background-color: black;
 }
